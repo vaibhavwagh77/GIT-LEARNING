@@ -1,0 +1,38 @@
+$ history
+    1  mkdir vaibhav-demo
+    2  ls
+    3  /vaibhav-demo
+    4  /e/vaibhav-demo
+    5  /e/vaibhav-demo/
+    6  clear
+    7  ls -all
+    8  cd /vaibhav-demo
+    9  cd /vaibhav-demo/
+   10  cd vaibhav-demo/
+   11  clear
+   12  git status
+   13  clear
+   14  git status
+   15  cd ..
+   16  clear
+   17  mkdir remot1
+   18  cd /remot1
+   19  cd remot1
+   20  cleare
+   21  clear
+   22  nano index.html
+   23  git init
+   24  git add -A
+   25  git commit -m "e1"
+   26  git push -u origin main
+   27  git branch -m main
+   28  git push -u origin main
+   29  git remote add origin https://github.com/vaibhavwagh77/demo
+   30  git push -u origin main
+   31  git push -u origin main
+   32  clear
+   33  nano hpcsa.html
+   34  git add -A
+   35  git commit -m "the hpcsa.html file"
+   36  git push -u origin main
+   37  history
